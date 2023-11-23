@@ -26,6 +26,8 @@ Mở Command Prompt hoặc Terminal và chạy lệnh sau để cài đặt nế
 - Mở terminal trong VS Code
 - ![image](https://github.com/ThyLuu/CSDL-N-ng-cao/assets/124854511/62a83249-5011-4731-8afe-03b4dfe365fa)
 - Sau đó chạy lệnh : npm i
+- Khi nào có folder node_modules và package-lock.json thì hãy làm tiếp :DD
+- ![image](https://github.com/ThyLuu/CSDL-N-ng-cao/assets/124854511/77dc89c8-7637-4790-bec1-75ad0cafc3bc)
 - Các thư viện khác : npm install antd, npm install react-router-dom@6, npm i react-slick, npm install react-slick slick-carousel, npm install @reduxjs/toolkit, npm i react-redux
 - Sau khi đã cài xong thì hãy kéo các folder đã tải trên github vào folder react app của mình
 - Sau đó chạy lệnh: npm start
