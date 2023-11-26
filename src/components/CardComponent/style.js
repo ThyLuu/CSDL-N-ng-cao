@@ -36,3 +36,4 @@ export const WrapperPriceDiscountText = styled.span`
     font-size: 13px;
     font-weight: 500;
 `
+
